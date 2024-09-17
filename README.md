@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @poshalakarthik
 - 👀 I’m interested learning coding
-- 🌱 I’m currently learning DSA using python
+- 🌱 I’m currently looking for opportunities
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @karthikgoud0963@gmail.com
 
